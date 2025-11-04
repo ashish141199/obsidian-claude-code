@@ -1,0 +1,15 @@
+# Obsidian workspace files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache
+.obsidian/cache
+
+# Plugins (optional - remove if you want to sync plugins)
+.obsidian/plugins/
+
+# macOS
+.DS_Store
+
+# Trash
+.trash/
