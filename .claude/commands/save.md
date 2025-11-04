@@ -22,8 +22,8 @@ Execute git workflow to save vault changes:
 - Imperative mood ("Add", "Update", "Fix")
 - Descriptive but concise
 - Examples:
-  - "Add AI agency strategy topic"
-  - "Update Platoona development notes"
+  - "Add strategy topic notes"
+  - "Update project development notes"
   - "Add daily note 2025-10-11"
 
 **Execute:**

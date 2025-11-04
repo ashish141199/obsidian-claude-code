@@ -29,5 +29,5 @@ Create a new topic note in `Topics/` folder:
 - **ANY noun → [[wiki link]]** - If you write any word that is a noun (person, place, thing, concept), wrap it in [[ ]]
 - **ANY year → [[wiki link]]** - Years also get links: [[2025]], [[2024]], etc.
 - Create topic note if important noun doesn't exist yet
-- Examples: [[Platoona]], [[Integration]], [[Oracle Cloud]], [[SSH]], [[Mobile Development]], [[2025]]
+- Examples: [[Project]], [[Technology]], [[Cloud Service]], [[Protocol]], [[Development]], [[2025]]
 - Don't overthink - more links = better graph connectivity

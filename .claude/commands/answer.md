@@ -28,7 +28,7 @@ Answer from existing vault knowledge:
 - **ANY noun → [[wiki link]]** - If you write any word that is a noun (person, place, thing, concept), wrap it in [[ ]]
 - **ANY year → [[wiki link]]** - Years also get links: [[2025]], [[2024]], etc.
 - Link to existing vault notes aggressively
-- Examples: [[Platoona MVP]], [[Fundraising]], [[Integration Architecture]], [[2025]]
+- Examples: [[Project Name]], [[Strategy]], [[Architecture]], [[2025]]
 - Don't overthink - more links = better graph connectivity
 
 **Style:**

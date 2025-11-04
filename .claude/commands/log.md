@@ -6,15 +6,15 @@ Simple daily logging workflow:
 
 **CRITICAL - Search FIRST, Always:**
 - **MANDATORY**: Before logging ANYTHING, search Topics/ for ALL nouns you'll mention
-- Use Grep with pattern matching for names, concepts, tools (e.g., "Atharv Kulkarni|Renuka Jagtap|UPI")
-- Check for BOTH exact matches AND similar names (e.g., "Renuka" vs "Renuka Jagtap HDFC")
+- Use Grep with pattern matching for names, concepts, tools
+- Check for BOTH exact matches AND similar names
 - **NO duplicate topics** - if similar topic exists, use that exact link
 - Fast parallel Grep searches - batch all nouns in one search
 
 **File Management Rules:**
 - **Link to existing** > Create new (always)
 - **Create ONLY if** genuinely new person/concept not in vault
-- Search for partial names - some people have full context (e.g., "Renuka Jagtap HDFC" not just "Renuka")
+- Search for partial names - some people have full context in their topic names
 
 **Workflow:**
 
@@ -39,7 +39,7 @@ Simple daily logging workflow:
 
 **Linking philosophy:**
 - **ANY noun → [[wiki link]]** - person, place, thing, concept, year
-- Examples: [[Platoona]], [[Saurabh Sharma]], [[MVP]], [[2025]]
+- Examples: [[Project Name]], [[Person Name]], [[Concept]], [[2025]]
 - Create topic immediately if doesn't exist
 
 **Style:**

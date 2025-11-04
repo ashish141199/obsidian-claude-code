@@ -52,7 +52,7 @@ Resource capture and integration workflow:
 - **ANY noun → [[wiki link]]** - person, place, thing, concept, company, product, year
 - Link to existing topics aggressively
 - Create topics for important new concepts
-- Examples: [[Platoona]], [[Claude Code]], [[Topological Sort]], [[Y Combinator]], [[2025]]
+- Examples: [[Project Name]], [[Tool Name]], [[Algorithm]], [[Company]], [[2025]]
 - More links = better graph connectivity
 
 **Title format:**
